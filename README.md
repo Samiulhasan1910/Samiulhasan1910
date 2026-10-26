@@ -86,10 +86,25 @@
 
 ## 📂 Featured Projects
 
+### 🤖 Machine Learning & Data Science
+
+| Project | Description | Tech |
+|---|---|---|
+| [🌫️ Dhaka AQI Forecasting](https://github.com/Samiulhasan1910/Dhaka-AQI-Forecasting) | Zone-wise next-hour AQI & PM2.5 forecasting for 8 Dhaka zones from 236K hourly records using a stacking ensemble, with SHAP explainability (R² = 0.99) — research paper under review | Python, XGBoost, LightGBM, scikit-learn, SHAP |
+| [💬 Banglish Sentiment Analysis](https://github.com/Samiulhasan1910/banglish-sentiment-analysis) | Bangla–English code-mixed restaurant review sentiment classification comparing BoW vs TF-IDF with LR, SVM and Naive Bayes (Data Science group project) | R, quanteda, caret |
+
+### 🌐 Web & Software Development
+
 | Project | Description | Tech |
 |---|---|---|
 | [🚜 AgriRent](https://github.com/Samiulhasan1910/agri-rent-system) | Agricultural equipment rental and management system with Farmer, Employee and Admin roles, smart matching, dynamic pricing and offline support (Software Engineering group project) | PHP (MVC), MySQL, JS |
-| [♻️ EcoCycle](https://github.com/sadiaahmed9735/EcoCycle) | Marketplace to sell, donate and recycle unwanted items, with User, NGO, Delivery and Admin roles (Web Technologies group project) | PHP (MVC), MySQL, JS |
+| [♻️ EcoCycle](https://github.com/Samiulhasan1910/EcoRecycle) | Marketplace to sell, donate and recycle unwanted items, with User, NGO, Delivery and Admin roles (Web Technologies group project) | PHP (MVC), MySQL, JS |
+
+### 🎨 Computer Graphics
+
+| Project | Description | Tech |
+|---|---|---|
+| [🌊 OpenGL Multi-Scenario Animation](https://github.com/Samiulhasan1910/opengl-multi-scenario-animation) | Interactive 2D animation with three scenes — rural train journey, underwater world and Titanic collision (Computer Graphics group project) | C++, OpenGL, GLUT |
 
 ---
 
